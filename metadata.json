@@ -1,0 +1,6 @@
+{
+  "name": "Flora Botanical Showcase",
+  "description": "A luxury, minimal, and cinematic botanical floral showcase recreating the editorial botanical exhibition experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
